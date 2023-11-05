@@ -1,0 +1,15 @@
+body {
+    background-color: yellow;
+    color: black;
+}
+
+.CABEÇA{
+    font-style: arial;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
